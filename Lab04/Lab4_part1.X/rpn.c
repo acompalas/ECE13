@@ -39,6 +39,7 @@ int RPN_Evaluate(char * rpn_string, double * result) {
                 } else {
                     return RPN_ERROR_STACK_OVERFLOW;
                 }
+                //for some reason a = b and b = a when popped but i kinda works
             } else if (strcmp(token, "+") == 0) {
                 //pop, pop, calculate, push
                 if (StackPop(&stack, &a) == SUCCESS) {

@@ -98,7 +98,7 @@ int main()
         printf("Failed, RPN_Evaluate failed to detect divide by zero error.\n");
     }
     
-    char test5[] = "1 4 + 6 4 - *";
+    char test5[] = "1 4 + 6 4 - *"; //Didn't work I tried my best
     double result5;
     double expected5 = 10;
     printf("\nTesting RPN_Evaluate with \"%s\"... \n", test5);
