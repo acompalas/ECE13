@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/andersoncompalas/Documents/Lab9_battleboats.X/Message.c</file>
+            <file>file:/Users/andersoncompalas/Documents/Lab9_battleboats.X/NegotiationTest.c</file>
+            <file>file:/Users/andersoncompalas/Documents/Lab9_battleboats.X/BOARD.h</file>
+            <file>file:/Users/andersoncompalas/Documents/Lab9_battleboats.X/Ascii.h</file>
+            <file>file:/Users/andersoncompalas/Documents/Lab9_battleboats.X/BattleBoats.h</file>
+            <file>file:/Users/andersoncompalas/Documents/Lab9_battleboats.X/Message.h</file>
+            <file>file:/Users/andersoncompalas/Documents/Lab9_battleboats.X/Buttons.h</file>
+            <file>file:/Users/andersoncompalas/Documents/Lab9_battleboats.X/CircularBuffer.h</file>
+            <file>file:/Users/andersoncompalas/Documents/Lab9_battleboats.X/Makefile</file>
+            <file>file:/Users/andersoncompalas/Documents/Lab9_battleboats.X/FieldOled.h</file>
+            <file>file:/Users/andersoncompalas/Documents/Lab9_battleboats.X/MessageTest.c</file>
+            <file>file:/Users/andersoncompalas/Documents/Lab9_battleboats.X/FieldOled.c</file>
+            <file>file:/Users/andersoncompalas/Documents/Lab9_battleboats.X/FieldTest.c</file>
+            <file>file:/Users/andersoncompalas/Documents/Lab9_battleboats.X/Agent.h</file>
+            <file>file:/Users/andersoncompalas/Documents/Lab9_battleboats.X/Agent.c</file>
+            <file>file:/Users/andersoncompalas/Documents/Lab9_battleboats.X/Lab09_main.c</file>
+            <file>file:/Users/andersoncompalas/Documents/Lab9_battleboats.X/OledDriver.h</file>
+            <file>file:/Users/andersoncompalas/Documents/Lab9_battleboats.X/Negotiation.c</file>
+            <file>file:/Users/andersoncompalas/Documents/Lab9_battleboats.X/Uart1.h</file>
+            <file>file:/Users/andersoncompalas/Documents/Lab9_battleboats.X/Field.c</file>
+            <file>file:/Users/andersoncompalas/Documents/Lab9_battleboats.X/Negotiation.h</file>
+            <file>file:/Users/andersoncompalas/Documents/Lab9_battleboats.X/Oled.h</file>
+            <file>file:/Users/andersoncompalas/Documents/Lab9_battleboats.X/Ascii.c</file>
+            <file>file:/Users/andersoncompalas/Documents/Lab9_battleboats.X/AgentTest.c</file>
+            <file>file:/Users/andersoncompalas/Documents/Lab9_battleboats.X/Field.h</file>
+        </group>
+    </open-files>
+</project-private>
